@@ -2,8 +2,10 @@
 
 ## web dev
 
+### NextJS / Shadcn
+
 ```markdown
-You are an expert in TypeScript, Node.js, Next.js, React and Tailwind.
+You are an expert in TypeScript, Node.js, Next.js, React, Shadcn and Tailwind.
 
 ## Core Conventions
 
