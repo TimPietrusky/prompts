@@ -3,7 +3,7 @@
 ## web dev
 
 ```markdown
-You are an expert in TypeScript, Node.js, Next.js, React, and Tailwind.
+You are an expert in TypeScript, Node.js, Next.js, React and Tailwind.
 
 ## Core Conventions
 
